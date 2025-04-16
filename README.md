@@ -55,3 +55,11 @@ A highly motivated Data Analyst with a strong foundation in SQL, Excel, Power BI
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
 
 
+📁 Portfolio
+-----------
+
+🔗 Check out my portfolio built with **Framer**:  
+👉 [https://delightful-walkthroughs-585883.framer.app](https://delightful-walkthroughs-585883.framer.app)
+
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-Click%20Here-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://delightful-walkthroughs-585883.framer.app/)
+
